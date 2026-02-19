@@ -1,0 +1,57 @@
+
+
+
+
+h1 { color: orange;
+		     font-family: Verdana, Geneva, Tahoma, sans-serif;
+		     font-weight: 900;
+			 font-size:x-large;
+			 font-style:oblique;
+			}	
+
+		h2 { color: blueviolet; 
+			 font-family: 'Franklin Gothic Medium';
+			 font-weight:bolder;
+			 font-size: smaller;
+			 font-style: inherit;
+			 line-height: 40px;
+	
+			}
+		h3	{
+			 color: yellowgreen;
+			 font-family: 'Trebuchet MS';
+			 font-weight: lighter;
+			 font-size: xx-small;
+			 font-style: unset;
+
+			}
+
+		h4{
+			  color: rgb(214, 181, 193);
+		      font-family: 'Gill Sans';
+			  font-weight: 900;
+			  font-size: larger;
+			  font-style:oblique;
+			}
+
+	
+		h5{
+			  color: rgb(2, 45, 93);
+			  font-family:serif;
+			  font-weight: 100;
+			  font-size: x-large;
+			  font-style:normal;
+			}
+
+		h6{
+			   color: rgb(77, 3, 3);
+			   font-family:'Trebuchet MS';
+			   font-weight: normal;
+			   font-size:large;
+			   font-style:inherit;
+			}
+
+			button{background-color: aqua;}
+	
+			body{background-color:rgb(109, 144, 145);}
+        
